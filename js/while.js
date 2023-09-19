@@ -1,0 +1,1 @@
+console.log(`Archivo de bucle white cargado`)
